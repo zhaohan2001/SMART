@@ -13,8 +13,8 @@
 # permissions and limitations under the License. See accompanying                                                                                                                 
 # LICENSE file.                                                                                                                                                                   
 
-recordcount=60000
-operationcount=60000
+recordcount=6000
+operationcount=6000
 fieldcount=1
 fieldlength=1
 insertorder=ordered
