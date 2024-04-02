@@ -54,7 +54,7 @@ void Directory::dirThread() {
       break;
     }
     default:
-      assert(false);
+      break;
     }
   }
 }
